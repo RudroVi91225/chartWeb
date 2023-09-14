@@ -1,0 +1,19 @@
+.main {
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+
+}
+
+#countLabel {
+    display: black;
+    font-size: 60px;
+    text-align: center;
+
+
+}
+
+.btns {
+    font-size: 40px;
+    text-align: center;
+}
